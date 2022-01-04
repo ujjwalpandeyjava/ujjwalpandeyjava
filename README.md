@@ -49,7 +49,7 @@
 
 
 <p width="100vw"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwalpandeyjava&" alt="ujjwalpandeyjava" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ujjwalpandeyjava&show_icons=true&locale=en" alt="ujjwalpandeyjava" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ujjwalpandeyjava&show_icons=true&locale=en" alt="ujjwalpandeyjava" /></p> -->
 <img align="right" alt="Coding" width="240" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"/>
 
 
