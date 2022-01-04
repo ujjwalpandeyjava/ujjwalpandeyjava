@@ -46,14 +46,12 @@
 
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
 
-
-
-<p width="100vw"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwalpandeyjava&" alt="ujjwalpandeyjava" /></p>
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ujjwalpandeyjava&show_icons=true&locale=en" alt="ujjwalpandeyjava" /></p> -->
 <img align="right" alt="Coding" width="240" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"/>
+<p width="100vw"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwalpandeyjava&" alt="ujjwalpandeyjava" /></p>
+ <h1 align="center">Don't forget to check my portfolio  :wink: :- <br/>(https://ujjwalpandeyjava.github.io/Ujjwal-Portfolio/)</h1>
+<!-- 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ujjwalpandeyjava&show_icons=true&locale=en" alt="ujjwalpandeyjava" /></p>
 
-
-<!--
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
