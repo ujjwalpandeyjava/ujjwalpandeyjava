@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, I'm Ujjwal Pandey</h1>
 <h3 align="center">Meet me, I am a passionate Full-stack Web developer from India</h3>
 <h4 align="center">⚡ Fun fact - <em>I think I am awesome</em></h4>
-<hr><br/>
+<hr>
 
 - 🔭 I’m currently working on **My skills**
 
@@ -42,13 +42,12 @@
 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
 <hr>
-<br/><br/>
 
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
 
 <img align="right" alt="Coding" width="240" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"/>
 <p width="100vw"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwalpandeyjava&" alt="ujjwalpandeyjava" /></p>
- <h1 align="center">Don't forget to check my portfolio  :wink: :- <br/>(https://ujjwalpandeyjava.github.io/Ujjwal-Portfolio/)</h1>
+ <h1 align="center">Don't forget to check my portfolio  :wink: :- <br/><sub>(https://ujjwalpandeyjava.github.io/Ujjwal-Portfolio/)</sub></h1>
 <!-- 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ujjwalpandeyjava&show_icons=true&locale=en" alt="ujjwalpandeyjava" /></p>
 
