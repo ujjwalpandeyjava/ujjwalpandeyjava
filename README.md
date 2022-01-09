@@ -4,6 +4,8 @@
 <hr>
 
 - 🔭 I’m currently working on **My skills**
+- 
+- 🔭 I’m actively looking for **Job**
 
 - 🌱 I’m currently learning **Python**
 
