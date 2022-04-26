@@ -3,11 +3,11 @@
 <h4 align="center">⚡ Fun fact - <em>I think I am awesome</em></h4>
 <hr>
 
-- 🔭 I’m currently working on **My skills**
+- 🔭 I’m currently working on **Java API**
  
-- 👋⚡ I’m actively looking for **Job**
+<!-- - 👋⚡ I’m actively looking for **Job** -->
 
-- 🌱 I’m currently learning **Python**
+<!-- - 🌱 I’m currently learning **Python** -->
 
 - 📫 How to reach me [All Links](https://ujjwalpandeyjava.github.io/Links/index.html)
 
@@ -20,7 +20,7 @@
 <a href="https://instagram.com/pandey.ujjwalpandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pandey.ujjwalpandey" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ujjwal-pandey-8bb562138" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujjwal-pandey-8bb562138" height="30" width="40" /></a>
 <a href="https://twitter.com/ujjwalp13341664" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ujjwalp13341664" height="30" width="40" /></a>
-<img src="https://komarev.com/ghpvc/?username=ujjwalpandeyjava&label=Profile%20views&color=6e2cf1&style=flat" alt="ujjwalpandeyjava" /> 
+<!-- <img src="https://komarev.com/ghpvc/?username=ujjwalpandeyjava&label=Profile%20views&color=6e2cf1&style=flat" alt="ujjwalpandeyjava" />  -->
 </p>
 <br/>
 <h2 align="left">Languages and Tools:</h2>
