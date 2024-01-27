@@ -37,4 +37,4 @@
 
 <img align="right" alt="Coding" width="240" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"/>
 <p width="100vw"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwalpandeyjava&" alt="ujjwalpandeyjava" /></p>
-<h2 align="center">Don't forget to check my portfolio  :wink: :- <br/>(Click Here)[https://ujjwalpandeyjava.github.io/Ujjwal-Portfolio/]</h2>
+<h2 align="center">Don't forget to check my portfolio  :wink: : https://ujjwalpandeyjava.github.io/Portfolio/</h2>
