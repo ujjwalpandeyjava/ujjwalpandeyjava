@@ -97,12 +97,20 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/ujjwalpandeyjava/ujjwalpandeyjava/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+</div>
 
 ###
 
 <br clear="both">
 
-<p align="left">Check out my portfolio: https://ujjwalpandeyjava.github.io/Portfolio/</p>
+<h3 align="center">Check out my portfolio: https://ujjwalpandeyjava.github.io/Portfolio/</h3>
 
 ###
