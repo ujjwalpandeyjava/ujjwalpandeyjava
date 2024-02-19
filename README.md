@@ -103,14 +103,16 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
+<br clear="both">
+
+<h3 align="center">Check out my portfolio: https://ujjwalpandeyjava.github.io/Portfolio/</h3>
 
 ###
 
 <br clear="both">
 
-<h3 align="center">Check out my portfolio: https://ujjwalpandeyjava.github.io/Portfolio/</h3>
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=sadhu_ujjwalpandey&theme=default" alt="Last medium posts by me"  />
+</div>
 
 ###
