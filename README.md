@@ -2,7 +2,9 @@
 
 ###
 
-<p align="left">I'm SDE-II, Full-Stack Developer at Safety Labs Inc.<br><br>Specialization, Education:<br>Web Development, GNIIT from NIIT,<br>BCA from IGNOU,<br>MCA from Amity University.</p>
+  <p align="left">I'm SDE-II, Sr. Product Developer at IntelyLabs<br><br>
+    <p><strong>Specialization & Education:</strong></p>
+    Web Development, GNIIT from NIIT,<br>BCA from IGNOU,<br>MCA ML & AI - from Amity University Onlnie.</p>
 
 ###
 
