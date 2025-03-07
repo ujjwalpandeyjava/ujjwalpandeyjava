@@ -2,9 +2,9 @@
 
 ###
 
-  <p align="left">I'm SDE-II, Sr. Product Developer at IntelyLabs<br><br>
+  <p align="left">I'm SDE-II, Sr. Product Developer at Intellylabs technologies<br><br>
     <p><strong>Specialization & Education:</strong></p>
-    Web Development, GNIIT from NIIT,<br>BCA from IGNOU,<br>MCA ML & AI - from Amity University Onlnie.</p>
+    Web Development, GNIIT from NIIT,<br>BCA from IGNOU,<br>MCA ML & AI - from Amity University Online</p>
 
 ###
 
