@@ -1,12 +1,16 @@
-<h2 align="left">Hey, I am Ujjwal Pandey!</h2>
+<h2 align="left">Hey, I'm Ujjwal Pandey! 👋</h2>
 
 <p align="left">
-Senior Product Developer at Intellylabs Technologies!
+ 🚀 Senior Product Developer at Intellylabs Technologies
 <br>
-<h3>Education</h3>
-  Web and Mobile Development - GNIIT from NIIT <b>(Specialization)</b><br>
-  <!-- BCA - from IGNOU<br> -->
-  MCA in ML & AI - from Amity University Online
+  
+<h3>🎓 Education</h3>
+- **GNIIT (Specialization) – Web and Mobile Development** | NIIT  
+- **MCA in Machine Learning & AI** | Amity University Online  
+- <!-- BCA - from IGNOU<br> -->
+
+Passionate about building scalable web and mobile applications, integrating AI solutions, and delivering high-performance software.  
+Let's connect and innovate together!
 </p>
 
 <h2 align="left">Languages and Tools</h2>
