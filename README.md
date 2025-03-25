@@ -5,8 +5,8 @@
 <br>
   
 <h3>🎓 Education</h3>
-- **GNIIT (Specialization) – Web and Mobile Development** | NIIT  <br>
-- **MCA in Machine Learning & AI** | Amity University Online  <br>
+- <b>GNIIT (Specialization) – Web and Mobile Development</b> | NIIT  <br>
+- <b>MCA in Machine Learning & AI</b> | Amity University Online  <br>
 <!-- -  BCA - from IGNOU<br> --> 
 
 <br>
@@ -45,14 +45,14 @@ Let's connect and innovate together!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="36" alt="Kotlin logo" title="Kotlin for Android and backend development" style="margin-bottom: 5px;" />
 </div>
 
-<div style="display: flex; flex-wrap: wrap; align-items: center; margin-bottom: 1.5em;">
+<div style="display: flex; flex-wrap: wrap; align-items: center; margin-bottom: 3em;">
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo" title="Git Version control" style="margin-right: 12px; margin-bottom: 5px;" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" title="Github" style="margin-right: 12px; margin-bottom: 5px;" />
   <img src="https://cdn.simpleicons.org/subversion/809CC9" height="40" alt="subversion logo" title="SVN, sub version" style="margin-right: 12px; margin-bottom: 5px;" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" title="Figma to design UIs" style="margin-right: 12px; margin-bottom: 5px;" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo" title="postman to test APIs" style="margin-right: 12px; margin-bottom: 5px;" />
   <img src="https://cdn.simpleicons.org/apachemaven/C71A36" height="40" alt="apachemaven logo" title="Java project manager for ease of work" style="margin-bottom: 5px;" />
-</div>
+</div><br/><br/>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; margin-bottom: 1em;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjwalpandeyjava&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="153" alt="languages graph" style="margin: 5px;" />
