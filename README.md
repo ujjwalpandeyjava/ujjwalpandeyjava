@@ -5,10 +5,11 @@
 <br>
   
 <h3>🎓 Education</h3>
-- **GNIIT (Specialization) – Web and Mobile Development** | NIIT  
-- **MCA in Machine Learning & AI** | Amity University Online  
-- <!-- BCA - from IGNOU<br> -->
+- **GNIIT (Specialization) – Web and Mobile Development** | NIIT  <br>
+- **MCA in Machine Learning & AI** | Amity University Online  <br>
+<!-- -  BCA - from IGNOU<br> --> 
 
+<br>
 Passionate about building scalable web and mobile applications, integrating AI solutions, and delivering high-performance software.  
 Let's connect and innovate together!
 </p>
@@ -27,17 +28,24 @@ Let's connect and innovate together!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo" title="Microsoft SQL Server" style="margin-bottom: 5px;" />
 </div>
 
-<p align="left">Front-end and tools</p>
-<div style="display: flex; flex-wrap: wrap; align-items: center; margin-bottom: 1em;">
+<p>Front-end and tools</p>
+<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; align-items:center; margin-bottom: 1.5em;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="react logo" title="ReactJS" style="margin-right: 13px; margin-bottom: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="javascript logo" title="JavaScript" style="margin-right: 13px; margin-bottom: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="36" alt="Next.js logo" title="Next.js for React-based web applications" style="margin-bottom: 5px;" />
+  -
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="javascript logo" title="JavaScript" style="margin-right: 13px; margin-bottom: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="TypeScript logo" title="TypeScript for strongly typed JavaScript development" style="margin-bottom: 5px;" />
+ -
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="html5 logo" title="HTML 5" style="margin-right: 13px; margin-bottom: 5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="css3 logo" title="CSS 3, to style page" style="margin-right: 13px; margin-bottom: 5px;" />
+ -
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="36" alt="sass logo" title="Advanced way to use the CSS" style="margin-right: 13px; margin-bottom: 5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="36" alt="bootstrap logo" title="Bootstrap for CSS and page layouts" style="margin-bottom: 5px;" />
+ -
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="36" alt="Kotlin logo" title="Kotlin for Android and backend development" style="margin-bottom: 5px;" />
 </div>
 
-<div  style="display: flex; flex-wrap: wrap; align-items: center; margin-bottom: 1.5em;">
+<div style="display: flex; flex-wrap: wrap; align-items: center; margin-bottom: 1.5em;">
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo" title="Git Version control" style="margin-right: 12px; margin-bottom: 5px;" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" title="Github" style="margin-right: 12px; margin-bottom: 5px;" />
   <img src="https://cdn.simpleicons.org/subversion/809CC9" height="40" alt="subversion logo" title="SVN, sub version" style="margin-right: 12px; margin-bottom: 5px;" />
