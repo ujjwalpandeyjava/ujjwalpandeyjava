@@ -247,16 +247,6 @@ With years of hands-on experience shipping enterprise-grade software at **Coforg
   <a href="https://www.instagram.com/ujjwal__pandeyy/" target="_blank" style="margin-right: 10px; margin-bottom: 5px;">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
-  <a href="https://medium.com/@sadhu_ujjwalpandey" target="_blank" style="margin-right: 10px; margin-bottom: 5px;">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo" />
-  </a>
-  <a href="https://www.facebook.com/ujjwal.pandey.1656" target="_blank" style="margin-bottom: 5px;">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=sadhu_ujjwalpandey&theme=default" alt="Layout with last medium posts"  />
 </div>
 
 <h3 align="center">Check out my portfolio: https://ujjwalpandeyjava.github.io/Portfolio/</h3>
