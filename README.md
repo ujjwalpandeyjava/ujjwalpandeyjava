@@ -8,175 +8,213 @@
   <div><img src="https://skillicons.dev/icons?i=school" title="MCA – Machine Learning & AI" height="20" style="vertical-align:middle;margin-right:6px;" /> <b>MCA in Machine Learning & AI</b> | Amity University Online</div>
 </div>
 
+
+
+<h2 align="center">🧑‍💻 About Me</h2>
+
 <div style="background:#f0f4f8;padding:1rem;border-left:4px solid #ff7e5f;border-radius:8px;margin:1rem 0;">
-  <p style="margin:0;font-weight:600;">🚀 Passionate about building scalable web and mobile applications, integrating AI solutions, and delivering high‑performance software. 🚀</p>
-  <p style="margin:0;font-weight:600;">🤝 Let's connect and innovate together! 🤝</p>
+  <p style="margin:0;font-weight:600;">
+  🚀 Passionate about building scalable web and mobile applications, integrating AI solutions, and delivering high‑performance software. 🚀
+  </p>
+  <p style="margin:0;font-weight:600;">
+  🤝 Let's connect and innovate together! 🤝
+  </p>
 </div>
 
-<br/>
-<br/>
+<table>
+  <tr>
+<td>
+
+**I don't just write code — I architect products.**
+
+With years of hands-on experience shipping enterprise-grade software at **Coforge × Sabre**, I operate across the entire stack — from designing **microservices** and **monolithic** backends in **Java/Spring Boot** and **Node.js**, to crafting pixel-perfect frontends with **React**, **Next.js**, **Angular**, and cross-platform mobile apps with **React Native**.
+
+🔹 **Backend** — I think in systems: event-driven pipelines with **Kafka**, blazing-fast caching with **Redis**, and databases tuned across **MySQL**, **MongoDB**, and **PostgreSQL**. I've built services that handle real-world scale for one of the world's largest travel technology companies.
+
+🔹 **Frontend** — I obsess over UX. State management with **Redux** & **Zustand**, component libraries like **Mantine**, and type-safe codebases in **TypeScript** — every interface I build feels fast, fluid, and intentional.
+
+🔹 **DevOps & Cloud** — I ship with confidence: **Docker** containers, **CI/CD** with **Jenkins** & **GitHub Actions**, deployed on **AWS** and **GCP**. From commit to production, I own the pipeline.
+
+🔹 **AI & Beyond** — Currently pursuing **MCA in Machine Learning & AI**, because the next decade belongs to developers who can bridge classical engineering with intelligent systems.
+
+> *"I don't pick a side of the stack — I pick the problem, and I solve it end to end."*
+
+</td></tr></table>
+
 
 <h1 align="center">🚀 Languages, Tools & Skills</h1>
 
 <h2 align="center" style="font-size:1.8rem;margin-top:1rem;">⚙️ Back‑end, Databases & Architecture</h2>
-<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(80px,1fr));gap:16px;justify-items:center;padding:1rem;background:#fafafa;border-radius:8px;margin-bottom:1.5em;">
-  <div style="text-align:center;">
-    <img src="https://skillicons.dev/icons?i=java" title="Core & Advanced Java" height="45" />
-    <div style="font-size:0.85rem;margin-top:4px;">Java</div>
-  </div>
-  <div style="text-align:center;">
-    <img src="https://skillicons.dev/icons?i=spring" title="Spring & Spring Boot (Advanced)" height="45" />
-    <div style="font-size:0.85rem;margin-top:4px;">Spring</div>
-  </div>
-  <div style="text-align:center;">
-    <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" height="45" />
-    <div style="font-size:0.85rem;margin-top:4px;">Node.js</div>
-  </div>
-  <div style="text-align:center;">
-    <img src="https://skillicons.dev/icons?i=express" title="Express.js" height="45" />
-    <div style="font-size:0.85rem;margin-top:4px;">Express</div>
-  </div>
-  <div style="text-align:center;">
-    <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" height="45" />
-    <div style="font-size:0.85rem;margin-top:4px;">MySQL</div>
-  </div>
-  <div style="text-align:center;">
-    <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" height="45" />
-    <div style="font-size:0.85rem;margin-top:4px;">MongoDB</div>
-  </div>
-  <div style="text-align:center;">
-    <img src="./images/postgresql.png" title="PostgreSQL" height="45" style="border-radius:4px;" />
-    <div style="font-size:0.85rem;margin-top:4px;">PostgreSQL</div>
-  </div>
-  <div style="text-align:center;">
-    <img src="https://img.shields.io/badge/Microservices-000000?style=flat-square&logo=microservices&logoColor=white" title="Microservices Architecture" height="45" style="border-radius:4px;" />
-    <div style="font-size:0.85rem;margin-top:4px;">Microservices</div>
-  </div>
-<div style="text-align:center;">
-  <img src="https://img.shields.io/badge/Monolithic-000000?style=flat-square" title="Monolithic Architecture" height="45" style="border-radius:4px;" />
-  <div style="font-size:0.85rem;margin-top:4px;">Monolithic</div>
-</div>
-<div style="text-align:center;">
-  <img src="https://skillicons.dev/icons?i=redis" title="Redis (caching)" height="45" />
-  <div style="font-size:0.85rem;margin-top:4px;">Redis</div>
-</div>
-<div style="text-align:center;">
-  <img src="https://skillicons.dev/icons?i=kafka" title="Kafka (event streaming)" height="45" />
-  <div style="font-size:0.85rem;margin-top:4px;">Kafka</div>
-</div>
-</div>
+<table align="center" style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td align="center" width="90" style="border: none; padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=java" title="Core & Advanced Java" height="45" /><br/>
+      <sub><b>Java</b></sub>
+    </td>
+    <td align="center" width="90" style="border: none; padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=spring" title="Spring & Spring Boot (Advanced)" height="45" /><br/>
+      <sub><b>Spring</b></sub>
+    </td>
+    <td align="center" width="90" style="border: none; padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" height="45" /><br/>
+      <sub><b>Node.js</b></sub>
+    </td>
+    <td align="center" width="90" style="border: none; padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=express" title="Express.js" height="45" /><br/>
+      <sub><b>Express</b></sub>
+    </td>
+    <td align="center" width="90" style="border: none; padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=redis" title="Redis (caching)" height="45" /><br/>
+      <sub><b>Redis</b></sub>
+    </td>
+    <td align="center" width="90" style="border: none; padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=kafka" title="Kafka (event streaming)" height="45" /><br/>
+      <sub><b>Kafka</b></sub>
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td align="center" width="90" style="border: none; padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" height="45" /><br/>
+      <sub><b>MySQL</b></sub>
+    </td>
+    <td align="center" width="90" style="border: none; padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" height="45" /><br/>
+      <sub><b>MongoDB</b></sub>
+    </td>
+    <td align="center" width="90" style="border: none; padding: 10px;">
+      <img src="./images/postgresql.png" title="PostgreSQL" height="45" style="border-radius:4px;" /><br/>
+      <sub><b>PostgreSQL</b></sub>
+    </td>
+    <td align="center" width="90" style="border: none; padding: 10px;">
+      <img src="https://img.shields.io/badge/Microservices-000000?style=flat-square&logo=microservices&logoColor=white" title="Microservices Architecture" height="45" style="border-radius:4px;" /><br/>
+      <sub><b>Microservices</b></sub>
+    </td>
+    <td align="center" width="90" style="border: none; padding: 10px;">
+      <img src="https://img.shields.io/badge/Monolithic-000000?style=flat-square" title="Monolithic Architecture" height="45" style="border-radius:4px;" /><br/>
+      <sub><b>Monolithic</b></sub>
+    </td>
+  </tr>
+</table>
 
 <h2 align="center" style="font-size:1.8rem;margin-top:1rem;">🎨 Front‑end & State Management</h2>
-<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(80px,1fr));gap:16px;justify-items:center;padding:1rem;background:#fafafa;border-radius:8px;margin-bottom:1.5em;">
-  <div style="text-align:center;">
-    <img src="https://skillicons.dev/icons?i=react" title="React.js" height="45" />
-    <div style="font-size:0.85rem;margin-top:4px;">React</div>
-  </div>
-  <div style="text-align:center;">
-    <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js (Advanced)" height="45" />
-    <div style="font-size:0.85rem;margin-top:4px;">Next.js</div>
-  </div>
-  <div style="text-align:center;">
-    <img src="https://skillicons.dev/icons?i=angular" title="Angular" height="45" />
-    <div style="font-size:0.85rem;margin-top:4px;">Angular</div>
-  </div>
-  <div style="text-align:center;">
-    <img src="https://skillicons.dev/icons?i=react" title="React Native" height="45" />
-    <div style="font-size:0.85rem;margin-top:4px;">React Native</div>
-  </div>
-  <div style="text-align:center;">
-    <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white" title="Zustand" height="30" style="border-radius:4px;" />
-    <div style="font-size:0.85rem;margin-top:4px;">Zustand</div>
-  </div>
-  <div style="text-align:center;">
-    <img src="https://img.shields.io/badge/Mantine-339AF0?style=flat-square&logo=mantine&logoColor=white" title="Mantine" height="30" style="border-radius:4px;" />
-    <div style="font-size:0.85rem;margin-top:4px;">Mantine</div>
-  </div>
-  <div style="text-align:center;">
-    <img src="https://skillicons.dev/icons?i=redux" title="Redux" height="45" />
-    <div style="font-size:0.85rem;margin-top:4px;">Redux</div>
-  </div>
-  <div style="text-align:center;">
-    <img src="https://skillicons.dev/icons?i=js" title="JavaScript" height="45" />
-    <div style="font-size:0.85rem;margin-top:4px;">JavaScript</div>
-  </div>
-  <div style="text-align:center;">
-    <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" height="45" />
-    <div style="font-size:0.85rem;margin-top:4px;">TypeScript</div>
-  </div>
-  <div style="text-align:center;">
-    <img src="https://skillicons.dev/icons?i=html" title="HTML 5" height="45" />
-    <div style="font-size:0.85rem;margin-top:4px;">HTML5</div>
-  </div>
-  <div style="text-align:center;">
-    <img src="https://skillicons.dev/icons?i=css" title="CSS 3" height="45" />
-    <div style="font-size:0.85rem;margin-top:4px;">CSS3</div>
-  </div>
-  <div style="text-align:center;">
-    <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" height="45" />
-    <div style="font-size:0.85rem;margin-top:4px;">Bootstrap</div>
-  </div>
-  <div style="text-align:center;">
-    <img src="https://skillicons.dev/icons?i=sass" title="Sass" height="45" />
-    <div style="font-size:0.85rem;margin-top:4px;">Sass</div>
-  </div>
-</div>
+<table align="center" style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td align="center" width="90" style="border: none; padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=react" title="React.js" height="45" /><br/>
+      <sub><b>React</b></sub>
+    </td>
+    <td align="center" width="90" style="border: none; padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js (Advanced)" height="45" /><br/>
+      <sub><b>Next.js</b></sub>
+    </td>
+    <td align="center" width="90" style="border: none; padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=angular" title="Angular" height="45" /><br/>
+      <sub><b>Angular</b></sub>
+    </td>
+    <td align="center" width="90" style="border: none; padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=react" title="React Native" height="45" /><br/>
+      <sub><b>React Native</b></sub>
+    </td>
+    <td align="center" width="90" style="border: none; padding: 10px;">
+      <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white" title="Zustand" height="30" style="border-radius:4px;" /><br/>
+      <sub><b>Zustand</b></sub>
+    </td>
+    <td align="center" width="90" style="border: none; padding: 10px;">
+      <img src="https://img.shields.io/badge/Mantine-339AF0?style=flat-square&logo=mantine&logoColor=white" title="Mantine" height="30" style="border-radius:4px;" /><br/>
+      <sub><b>Mantine</b></sub>
+    </td>
+    <td align="center" width="90" style="border: none; padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=redux" title="Redux" height="45" /><br/>
+      <sub><b>Redux</b></sub>
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td align="center" width="90" style="border: none; padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=js" title="JavaScript" height="45" /><br/>
+      <sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="90" style="border: none; padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" height="45" /><br/>
+      <sub><b>TypeScript</b></sub>
+    </td>
+    <td align="center" width="90" style="border: none; padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=html" title="HTML 5" height="45" /><br/>
+      <sub><b>HTML5</b></sub>
+    </td>
+    <td align="center" width="90" style="border: none; padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=css" title="CSS 3" height="45" /><br/>
+      <sub><b>CSS3</b></sub>
+    </td>
+    <td align="center" width="90" style="border: none; padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" height="45" /><br/>
+      <sub><b>Bootstrap</b></sub>
+    </td>
+    <td align="center" width="90" style="border: none; padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=sass" title="Sass" height="45" /><br/>
+      <sub><b>Sass</b></sub>
+    </td>
+  </tr>
+</table>
 
 <h2 align="center" style="font-size:1.8rem;margin-top:1rem;">☁️ DevOps, Cloud & Tools</h2>
-<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(80px,1fr));gap:16px;justify-items:center;padding:1rem;background:#fafafa;border-radius:8px;margin-bottom:1.5em;">
-  <div style="text-align:center;">
-    <img src="https://skillicons.dev/icons?i=docker" title="Docker" height="45" />
-    <div style="font-size:0.85rem;margin-top:4px;">Docker</div>
-  </div>
-  <div style="text-align:center;">
-    <img src="https://skillicons.dev/icons?i=gcp" title="Google Cloud Platform (GCP)" height="45" />
-    <div style="font-size:0.85rem;margin-top:4px;">GCP</div>
-  </div>
-  <div style="text-align:center;">
-    <img src="https://skillicons.dev/icons?i=aws" title="Amazon Web Services (AWS)" height="45" />
-    <div style="font-size:0.85rem;margin-top:4px;">AWS</div>
-  </div>
-  <div style="text-align:center;">
-    <img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions (CI/CD)" height="45" />
-    <div style="font-size:0.85rem;margin-top:4px;">GitHub Actions</div>
-  </div>
-  <div style="text-align:center;">
-    <img src="https://skillicons.dev/icons?i=jenkins" title="Jenkins (CI/CD)" height="45" />
-    <div style="font-size:0.85rem;margin-top:4px;">Jenkins</div>
-  </div>
-  <div style="text-align:center;">
-    <img src="https://skillicons.dev/icons?i=git" title="Git Version Control" height="45" />
-    <div style="font-size:0.85rem;margin-top:4px;">Git</div>
-  </div>
-  <div style="text-align:center;">
-    <img src="https://skillicons.dev/icons?i=github" title="Github" height="45" />
-    <div style="font-size:0.85rem;margin-top:4px;">Github</div>
-  </div>
-  <div style="text-align:center;">
-    <img src="https://skillicons.dev/icons?i=bitbucket" title="Bitbucket" height="45" />
-    <div style="font-size:0.85rem;margin-top:4px;">Bitbucket</div>
-  </div>
-  <div style="text-align:center;">
-    <img src="./images/SVN.png" title="Subversion (SVN)" height="45" style="border-radius:4px;" />
-    <div style="font-size:0.85rem;margin-top:4px;">SVN</div>
-  </div>
-  <div style="text-align:center;">
-    <img src="https://skillicons.dev/icons?i=figma" title="Figma" height="45" />
-    <div style="font-size:0.85rem;margin-top:4px;">Figma</div>
-  </div>
-  <div style="text-align:center;">
-    <img src="https://skillicons.dev/icons?i=postman" title="Postman" height="45" />
-    <div style="font-size:0.85rem;margin-top:4px;">Postman</div>
-  </div>
-  <div style="text-align:center;">
-    <img src="https://skillicons.dev/icons?i=maven" title="Apache Maven" height="45" />
-    <div style="font-size:0.85rem;margin-top:4px;">Maven</div>
-  </div>
-  <div style="text-align:center;">
-    <img src="https://skillicons.dev/icons?i=gradle" title="Gradle" height="45" />
-    <div style="font-size:0.85rem;margin-top:4px;">Gradle</div>
-  </div>
-</div><br/><br/>
+<table align="center" style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td align="center" width="90" style="border: none; padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=docker" title="Docker" height="45" /><br/>
+      <sub><b>Docker</b></sub>
+    </td>
+    <td align="center" width="90" style="border: none; padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=gcp" title="Google Cloud Platform (GCP)" height="45" /><br/>
+      <sub><b>GCP</b></sub>
+    </td>
+    <td align="center" width="90" style="border: none; padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=aws" title="Amazon Web Services (AWS)" height="45" /><br/>
+      <sub><b>AWS</b></sub>
+    </td>
+    <td align="center" width="90" style="border: none; padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions (CI/CD)" height="45" /><br/>
+      <sub><b>GitHub Actions</b></sub>
+    </td>
+    <td align="center" width="90" style="border: none; padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=jenkins" title="Jenkins (CI/CD)" height="45" /><br/>
+      <sub><b>Jenkins</b></sub>
+    </td>
+    <td align="center" width="90" style="border: none; padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=git" title="Git Version Control" height="45" /><br/>
+      <sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="90" style="border: none; padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=github" title="Github" height="45" /><br/>
+      <sub><b>Github</b></sub>
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td align="center" width="90" style="border: none; padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=bitbucket" title="Bitbucket" height="45" /><br/>
+      <sub><b>Bitbucket</b></sub>
+    </td>
+    <td align="center" width="90" style="border: none; padding: 10px;">
+      <img src="./images/SVN.png" title="Subversion (SVN)" height="45" style="border-radius:4px;" /><br/>
+      <sub><b>SVN</b></sub>
+    </td>
+    <td align="center" width="90" style="border: none; padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=figma" title="Figma" height="45" /><br/>
+      <sub><b>Figma</b></sub>
+    </td>
+    <td align="center" width="90" style="border: none; padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=postman" title="Postman" height="45" /><br/>
+      <sub><b>Postman</b></sub>
+    </td>
+    <td align="center" width="90" style="border: none; padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=maven" title="Apache Maven" height="45" /><br/>
+      <sub><b>Maven</b></sub>
+    </td>
+    <td align="center" width="90" style="border: none; padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=gradle" title="Gradle" height="45" /><br/>
+      <sub><b>Gradle</b></sub>
+    </td>
+  </tr>
+</table><br/><br/>
 
 <h2 align="center" style="font-size:1.8rem;margin-top:1rem;">💻 Languages I Work With</h2>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; margin-bottom: 1.5em;">
@@ -190,17 +228,6 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="35" alt="SQL" style="margin: 5px;" />
 </div>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; margin-bottom: 1em;">
-  <!-- Streak: Total Contributions & Longest Streak (current streak hidden) -->
-  <img src="https://streak-stats.demolab.com?user=ujjwalpandeyjava&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&hide_current_streak=true" height="150" alt="streak graph" style="margin: 5px;" />
-  <!-- GitHub Stats: Stars, Commits, PRs, Issues, Contributions -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ujjwalpandeyjava&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" style="margin: 5px;" />
-</div>
-
-<!-- GitHub Trophies -->
-<div style="display: flex; justify-content: center; margin-bottom: 1em;">
-  <img src="https://github-profile-trophy.vercel.app/?username=ujjwalpandeyjava&theme=dracula&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" style="margin: 5px;" />
-</div>
 
 <!-- Contribution Activity Graph -->
 <div style="display: flex; justify-content: center; margin-bottom: 1em;">
