@@ -1,63 +1,215 @@
-<h2 align="left">Hey, I'm Ujjwal Pandey! 👋</h2>
+<h1 style="font-size:2.5rem; background:linear-gradient(90deg,#ff7e5f,#feb47b);-webkit-background-clip:text;color:transparent;margin:0;" align="center">Hey, I'm Ujjwal Pandey! 👋</h1>
 
-<p align="left">
- 🚀 Senior Product Developer at Intellylabs Technologies
-<br>
+<p align="center">Senior Product Developer at Coforge working for Sabre</p>
   
-<h3>🎓 Education</h3>
-- <b>GNIIT (Specialization) – Web and Mobile Development</b> | NIIT  <br>
-- <b>MCA in Machine Learning & AI</b> | Amity University Online  <br>
-<!-- -  BCA - from IGNOU<br> --> 
-
-<br>
-Passionate about building scalable web and mobile applications, integrating AI solutions, and delivering high-performance software.  
-Let's connect and innovate together!
-</p>
-
-<h2 align="left">Languages and Tools</h2>
-<p align="left">Back-end & Databases</p>
-<div align="left" style="display: flex; flex-wrap: wrap; align-items: center; margin-bottom: 1em;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Core Java (main logic building)" height="40" style="margin-right: 12px; margin-bottom: 5px;" />
-  <img src="./images/Advanced java.png" title="Advanced Java (server side)" height="40" alt="Advanced java logo" style="margin-right: 18px; margin-bottom: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Framework" height="40" alt="spring logo" style="margin-right: 12px; margin-bottom: 5px;" />
-  <img src="./images/spring-boot-logo.png" title="Spring Boot" height="40" alt="Spring Boot logo" style="margin-right: 12px; margin-bottom: 5px;" />
-  <img src="./images/NodeJS.png" title="NodeJs" height="40" alt="nodejs logo" style="margin-right: 12px; margin-bottom: 5px;" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" title="ExpressJS" style="margin-right: 12px; margin-bottom: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" title="MySQL" style="margin-right: 12px; margin-bottom: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" title="MongoDB" style="margin-right: 12px; margin-bottom: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo" title="Microsoft SQL Server" style="margin-bottom: 5px;" />
+<h3>🎓 Education 🎓</h3>
+<div style="display:flex; flex-direction:column; gap:0.5rem; margin-left:1rem;">
+  <div><img src="https://skillicons.dev/icons?i=school" title="GNIIT – Web & Mobile Development" height="20" style="vertical-align:middle;margin-right:6px;" /> <b>GNIIT (Specialization) – Web & Mobile Development</b> | NIIT</div>
+  <div><img src="https://skillicons.dev/icons?i=school" title="MCA – Machine Learning & AI" height="20" style="vertical-align:middle;margin-right:6px;" /> <b>MCA in Machine Learning & AI</b> | Amity University Online</div>
 </div>
 
-<p>Front-end and tools</p>
-<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; align-items:center; margin-bottom: 1.5em;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="react logo" title="ReactJS" style="margin-right: 13px; margin-bottom: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="36" alt="Next.js logo" title="Next.js for React-based web applications" style="margin-bottom: 5px;" />
-  -
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="javascript logo" title="JavaScript" style="margin-right: 13px; margin-bottom: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="TypeScript logo" title="TypeScript for strongly typed JavaScript development" style="margin-bottom: 5px;" />
- -
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="html5 logo" title="HTML 5" style="margin-right: 13px; margin-bottom: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="css3 logo" title="CSS 3, to style page" style="margin-right: 13px; margin-bottom: 5px;" />
- -
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="36" alt="sass logo" title="Advanced way to use the CSS" style="margin-right: 13px; margin-bottom: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="36" alt="bootstrap logo" title="Bootstrap for CSS and page layouts" style="margin-bottom: 5px;" />
- -
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="36" alt="Kotlin logo" title="Kotlin for Android and backend development" style="margin-bottom: 5px;" />
+<div style="background:#f0f4f8;padding:1rem;border-left:4px solid #ff7e5f;border-radius:8px;margin:1rem 0;">
+  <p style="margin:0;font-weight:600;">🚀 Passionate about building scalable web and mobile applications, integrating AI solutions, and delivering high‑performance software. 🚀</p>
+  <p style="margin:0;font-weight:600;">🤝 Let's connect and innovate together! 🤝</p>
 </div>
 
-<div style="display: flex; flex-wrap: wrap; align-items: center; margin-bottom: 3em;">
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo" title="Git Version control" style="margin-right: 12px; margin-bottom: 5px;" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" title="Github" style="margin-right: 12px; margin-bottom: 5px;" />
-  <img src="https://cdn.simpleicons.org/subversion/809CC9" height="40" alt="subversion logo" title="SVN, sub version" style="margin-right: 12px; margin-bottom: 5px;" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" title="Figma to design UIs" style="margin-right: 12px; margin-bottom: 5px;" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo" title="postman to test APIs" style="margin-right: 12px; margin-bottom: 5px;" />
-  <img src="https://cdn.simpleicons.org/apachemaven/C71A36" height="40" alt="apachemaven logo" title="Java project manager for ease of work" style="margin-bottom: 5px;" />
+<br/>
+<br/>
+
+<h1 align="center">🚀 Languages, Tools & Skills</h1>
+
+<h2 align="center" style="font-size:1.8rem;margin-top:1rem;">⚙️ Back‑end, Databases & Architecture</h2>
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(80px,1fr));gap:16px;justify-items:center;padding:1rem;background:#fafafa;border-radius:8px;margin-bottom:1.5em;">
+  <div style="text-align:center;">
+    <img src="https://skillicons.dev/icons?i=java" title="Core & Advanced Java" height="45" />
+    <div style="font-size:0.85rem;margin-top:4px;">Java</div>
+  </div>
+  <div style="text-align:center;">
+    <img src="https://skillicons.dev/icons?i=spring" title="Spring & Spring Boot (Advanced)" height="45" />
+    <div style="font-size:0.85rem;margin-top:4px;">Spring</div>
+  </div>
+  <div style="text-align:center;">
+    <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" height="45" />
+    <div style="font-size:0.85rem;margin-top:4px;">Node.js</div>
+  </div>
+  <div style="text-align:center;">
+    <img src="https://skillicons.dev/icons?i=express" title="Express.js" height="45" />
+    <div style="font-size:0.85rem;margin-top:4px;">Express</div>
+  </div>
+  <div style="text-align:center;">
+    <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" height="45" />
+    <div style="font-size:0.85rem;margin-top:4px;">MySQL</div>
+  </div>
+  <div style="text-align:center;">
+    <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" height="45" />
+    <div style="font-size:0.85rem;margin-top:4px;">MongoDB</div>
+  </div>
+  <div style="text-align:center;">
+    <img src="./images/postgresql.png" title="PostgreSQL" height="45" style="border-radius:4px;" />
+    <div style="font-size:0.85rem;margin-top:4px;">PostgreSQL</div>
+  </div>
+  <div style="text-align:center;">
+    <img src="https://img.shields.io/badge/Microservices-000000?style=flat-square&logo=microservices&logoColor=white" title="Microservices Architecture" height="45" style="border-radius:4px;" />
+    <div style="font-size:0.85rem;margin-top:4px;">Microservices</div>
+  </div>
+<div style="text-align:center;">
+  <img src="https://img.shields.io/badge/Monolithic-000000?style=flat-square" title="Monolithic Architecture" height="45" style="border-radius:4px;" />
+  <div style="font-size:0.85rem;margin-top:4px;">Monolithic</div>
+</div>
+<div style="text-align:center;">
+  <img src="https://skillicons.dev/icons?i=redis" title="Redis (caching)" height="45" />
+  <div style="font-size:0.85rem;margin-top:4px;">Redis</div>
+</div>
+<div style="text-align:center;">
+  <img src="https://skillicons.dev/icons?i=kafka" title="Kafka (event streaming)" height="45" />
+  <div style="font-size:0.85rem;margin-top:4px;">Kafka</div>
+</div>
+</div>
+
+<h2 align="center" style="font-size:1.8rem;margin-top:1rem;">🎨 Front‑end & State Management</h2>
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(80px,1fr));gap:16px;justify-items:center;padding:1rem;background:#fafafa;border-radius:8px;margin-bottom:1.5em;">
+  <div style="text-align:center;">
+    <img src="https://skillicons.dev/icons?i=react" title="React.js" height="45" />
+    <div style="font-size:0.85rem;margin-top:4px;">React</div>
+  </div>
+  <div style="text-align:center;">
+    <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js (Advanced)" height="45" />
+    <div style="font-size:0.85rem;margin-top:4px;">Next.js</div>
+  </div>
+  <div style="text-align:center;">
+    <img src="https://skillicons.dev/icons?i=angular" title="Angular" height="45" />
+    <div style="font-size:0.85rem;margin-top:4px;">Angular</div>
+  </div>
+  <div style="text-align:center;">
+    <img src="https://skillicons.dev/icons?i=react" title="React Native" height="45" />
+    <div style="font-size:0.85rem;margin-top:4px;">React Native</div>
+  </div>
+  <div style="text-align:center;">
+    <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white" title="Zustand" height="30" style="border-radius:4px;" />
+    <div style="font-size:0.85rem;margin-top:4px;">Zustand</div>
+  </div>
+  <div style="text-align:center;">
+    <img src="https://img.shields.io/badge/Mantine-339AF0?style=flat-square&logo=mantine&logoColor=white" title="Mantine" height="30" style="border-radius:4px;" />
+    <div style="font-size:0.85rem;margin-top:4px;">Mantine</div>
+  </div>
+  <div style="text-align:center;">
+    <img src="https://skillicons.dev/icons?i=redux" title="Redux" height="45" />
+    <div style="font-size:0.85rem;margin-top:4px;">Redux</div>
+  </div>
+  <div style="text-align:center;">
+    <img src="https://skillicons.dev/icons?i=js" title="JavaScript" height="45" />
+    <div style="font-size:0.85rem;margin-top:4px;">JavaScript</div>
+  </div>
+  <div style="text-align:center;">
+    <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" height="45" />
+    <div style="font-size:0.85rem;margin-top:4px;">TypeScript</div>
+  </div>
+  <div style="text-align:center;">
+    <img src="https://skillicons.dev/icons?i=html" title="HTML 5" height="45" />
+    <div style="font-size:0.85rem;margin-top:4px;">HTML5</div>
+  </div>
+  <div style="text-align:center;">
+    <img src="https://skillicons.dev/icons?i=css" title="CSS 3" height="45" />
+    <div style="font-size:0.85rem;margin-top:4px;">CSS3</div>
+  </div>
+  <div style="text-align:center;">
+    <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" height="45" />
+    <div style="font-size:0.85rem;margin-top:4px;">Bootstrap</div>
+  </div>
+  <div style="text-align:center;">
+    <img src="https://skillicons.dev/icons?i=sass" title="Sass" height="45" />
+    <div style="font-size:0.85rem;margin-top:4px;">Sass</div>
+  </div>
+</div>
+
+<h2 align="center" style="font-size:1.8rem;margin-top:1rem;">☁️ DevOps, Cloud & Tools</h2>
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(80px,1fr));gap:16px;justify-items:center;padding:1rem;background:#fafafa;border-radius:8px;margin-bottom:1.5em;">
+  <div style="text-align:center;">
+    <img src="https://skillicons.dev/icons?i=docker" title="Docker" height="45" />
+    <div style="font-size:0.85rem;margin-top:4px;">Docker</div>
+  </div>
+  <div style="text-align:center;">
+    <img src="https://skillicons.dev/icons?i=gcp" title="Google Cloud Platform (GCP)" height="45" />
+    <div style="font-size:0.85rem;margin-top:4px;">GCP</div>
+  </div>
+  <div style="text-align:center;">
+    <img src="https://skillicons.dev/icons?i=aws" title="Amazon Web Services (AWS)" height="45" />
+    <div style="font-size:0.85rem;margin-top:4px;">AWS</div>
+  </div>
+  <div style="text-align:center;">
+    <img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions (CI/CD)" height="45" />
+    <div style="font-size:0.85rem;margin-top:4px;">GitHub Actions</div>
+  </div>
+  <div style="text-align:center;">
+    <img src="https://skillicons.dev/icons?i=jenkins" title="Jenkins (CI/CD)" height="45" />
+    <div style="font-size:0.85rem;margin-top:4px;">Jenkins</div>
+  </div>
+  <div style="text-align:center;">
+    <img src="https://skillicons.dev/icons?i=git" title="Git Version Control" height="45" />
+    <div style="font-size:0.85rem;margin-top:4px;">Git</div>
+  </div>
+  <div style="text-align:center;">
+    <img src="https://skillicons.dev/icons?i=github" title="Github" height="45" />
+    <div style="font-size:0.85rem;margin-top:4px;">Github</div>
+  </div>
+  <div style="text-align:center;">
+    <img src="https://skillicons.dev/icons?i=bitbucket" title="Bitbucket" height="45" />
+    <div style="font-size:0.85rem;margin-top:4px;">Bitbucket</div>
+  </div>
+  <div style="text-align:center;">
+    <img src="./images/SVN.png" title="Subversion (SVN)" height="45" style="border-radius:4px;" />
+    <div style="font-size:0.85rem;margin-top:4px;">SVN</div>
+  </div>
+  <div style="text-align:center;">
+    <img src="https://skillicons.dev/icons?i=figma" title="Figma" height="45" />
+    <div style="font-size:0.85rem;margin-top:4px;">Figma</div>
+  </div>
+  <div style="text-align:center;">
+    <img src="https://skillicons.dev/icons?i=postman" title="Postman" height="45" />
+    <div style="font-size:0.85rem;margin-top:4px;">Postman</div>
+  </div>
+  <div style="text-align:center;">
+    <img src="https://skillicons.dev/icons?i=maven" title="Apache Maven" height="45" />
+    <div style="font-size:0.85rem;margin-top:4px;">Maven</div>
+  </div>
+  <div style="text-align:center;">
+    <img src="https://skillicons.dev/icons?i=gradle" title="Gradle" height="45" />
+    <div style="font-size:0.85rem;margin-top:4px;">Gradle</div>
+  </div>
 </div><br/><br/>
 
+<h2 align="center" style="font-size:1.8rem;margin-top:1rem;">💻 Languages I Work With</h2>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; margin-bottom: 1.5em;">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="35" alt="Java" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="35" alt="JavaScript" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="35" alt="TypeScript" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="35" alt="React Native" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="35" alt="HTML5" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="35" alt="CSS3" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" height="35" alt="Sass" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="35" alt="SQL" style="margin: 5px;" />
+</div>
+
 <div style="display: flex; flex-wrap: wrap; justify-content: center; margin-bottom: 1em;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjwalpandeyjava&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="153" alt="languages graph" style="margin: 5px;" />
-  <img src="https://streak-stats.demolab.com?user=ujjwalpandeyjava&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" style="margin: 5px;" />
+  <!-- Streak: Total Contributions & Longest Streak (current streak hidden) -->
+  <img src="https://streak-stats.demolab.com?user=ujjwalpandeyjava&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&hide_current_streak=true" height="150" alt="streak graph" style="margin: 5px;" />
+  <!-- GitHub Stats: Stars, Commits, PRs, Issues, Contributions -->
   <img src="https://github-readme-stats.vercel.app/api?username=ujjwalpandeyjava&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" style="margin: 5px;" />
+</div>
+
+<!-- GitHub Trophies -->
+<div style="display: flex; justify-content: center; margin-bottom: 1em;">
+  <img src="https://github-profile-trophy.vercel.app/?username=ujjwalpandeyjava&theme=dracula&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" style="margin: 5px;" />
+</div>
+
+<!-- Contribution Activity Graph -->
+<div style="display: flex; justify-content: center; margin-bottom: 1em;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ujjwalpandeyjava&theme=dracula&hide_border=false&area=true" alt="Activity Graph" width="90%" style="margin: 5px;" />
+</div>
+
+<!-- Profile Views Counter -->
+<div style="display: flex; justify-content: center; margin-bottom: 1em;">
+  <img src="https://komarev.com/ghpvc/?username=ujjwalpandeyjava&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </div>
 
 <div align="left" style="display: flex; flex-wrap: wrap; align-items: center; margin-bottom: 1em;">
